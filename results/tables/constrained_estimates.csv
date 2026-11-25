@@ -1,0 +1,8 @@
+predictor,sst,pr,obs_value,dA,lo68,hi68,lo95,hi95,slope,r2,n_colder_or_drier,n_warmer_or_wetter
+pr_nino3_ref,ERSSTv6,GPCP,1.5708,-0.0001,-0.0612,0.0610,-0.1263,0.1262,-0.0638,0.3558,9,9
+pr_nino3_ref,ERSSTv6,CMAP,1.5386,0.0020,-0.0592,0.0631,-0.1244,0.1283,-0.0638,0.3558,8,10
+cold_tongue_sst_ref,ERSSTv6,GPCP,25.6431,-0.0384,-0.0973,0.0205,-0.1601,0.0833,-0.0624,0.4116,13,5
+cold_tongue_sst_ref,COBE2,GPCP,25.5713,-0.0339,-0.0926,0.0248,-0.1552,0.0874,-0.0624,0.4116,13,5
+cold_tongue_sst_ref,ERSSTv5,GPCP,25.6246,-0.0372,-0.0961,0.0216,-0.1588,0.0844,-0.0624,0.4116,13,5
+cold_tongue_sst_ref,HadISST,GPCP,25.5309,-0.0314,-0.0900,0.0273,-0.1525,0.0898,-0.0624,0.4116,13,5
+rain_asymmetry_per_K,ERSSTv6,GPCP,0.3890,-0.0493,-0.1096,0.0111,-0.1740,0.0754,-0.3082,0.3955,15,3

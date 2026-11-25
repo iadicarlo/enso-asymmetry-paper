@@ -1,0 +1,11 @@
+predictor,controlling_for,r_simple,p_simple,r_partial,p_partial,n
+grad_per_K,pr_nino3_ref,0.4406,0.0673,0.2037,0.4330,18
+pr_nino3_ref,grad_per_K,-0.5965,0.0090,-0.4836,0.0492,18
+grad_per_K,cold_tongue_sst_ref,0.4406,0.0673,0.1091,0.6769,18
+cold_tongue_sst_ref,grad_per_K,-0.6415,0.0041,-0.5277,0.0295,18
+pr_nino3_ref,cold_tongue_sst_ref,-0.5965,0.0090,-0.1040,0.6911,18
+cold_tongue_sst_ref,pr_nino3_ref,-0.6415,0.0041,-0.3105,0.2252,18
+grad_per_K,skew_n3_ref,0.4406,0.0673,0.4320,0.0833,18
+pr_nino3_ref,skew_n3_ref,-0.5965,0.0090,-0.5508,0.0219,18
+grad_per_K,A_ref,0.4406,0.0673,0.4689,0.0576,18
+pr_nino3_ref,A_ref,-0.5965,0.0090,-0.6122,0.0090,18

@@ -1,0 +1,4 @@
+statistic,r,p,n
+"r(pr_nino3_ref, cold_tongue_sst_ref), all ensembles",0.8681,0.0000,18
+"partial r(d_A, grad_per_K | pr_nino3_ref), screened",0.3177,0.3142,13
+"partial r(d_A, pr_nino3_ref | grad_per_K), screened",-0.5461,0.0662,13

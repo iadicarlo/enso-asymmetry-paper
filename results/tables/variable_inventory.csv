@@ -1,0 +1,148 @@
+ensemble,model,scenario,variable,roster_members,members_with_data,first_year,last_year,last_year_min
+ACCESS-ESM1-5,access_lens,ssp585,sst (Nino boxes),40,40,1850.0,2100.0,2100.0
+ACCESS-ESM1-5,access_lens,ssp585,pr (Nino-3),40,40,1850.0,2100.0,2100.0
+ACCESS-ESM1-5,access_lens,ssp585,tauu (Nino-4),40,0,,,
+ACCESS-ESM1-5,access_lens,ssp585,tauu (Nino-3),40,0,,,
+ACCESS-ESM1-5,access_lens,ssp585,gwi (tas),40,40,1850.0,2100.0,2100.0
+ACCESS-ESM1-5,access_lens,ssp585,zos gradient,40,40,1850.0,2100.0,2100.0
+ACCESS-ESM1-5,access_lens,ssp585,z20 tilt,40,40,1850.0,2100.0,2100.0
+CanESM2,canesm2_lens,rcp85,sst (Nino boxes),50,50,1950.0,2100.0,2100.0
+CanESM2,canesm2_lens,rcp85,pr (Nino-3),50,50,1950.0,2100.0,2100.0
+CanESM2,canesm2_lens,rcp85,tauu (Nino-4),50,50,1950.0,2100.0,2100.0
+CanESM2,canesm2_lens,rcp85,tauu (Nino-3),50,50,1950.0,2100.0,2100.0
+CanESM2,canesm2_lens,rcp85,gwi (tas),50,50,1950.0,2100.0,2100.0
+CanESM2,canesm2_lens,rcp85,zos gradient,50,0,,,
+CanESM2,canesm2_lens,rcp85,z20 tilt,50,29,1950.0,2100.0,2100.0
+CanESM5,canesm5_lens,ssp585,sst (Nino boxes),25,25,1850.0,2100.0,2100.0
+CanESM5,canesm5_lens,ssp585,pr (Nino-3),25,18,1850.0,2100.0,2100.0
+CanESM5,canesm5_lens,ssp585,tauu (Nino-4),25,18,1850.0,2100.0,2100.0
+CanESM5,canesm5_lens,ssp585,tauu (Nino-3),25,18,1850.0,2100.0,2100.0
+CanESM5,canesm5_lens,ssp585,gwi (tas),25,25,1850.0,2100.0,2100.0
+CanESM5,canesm5_lens,ssp585,zos gradient,25,25,1850.0,2100.0,2100.0
+CanESM5,canesm5_lens,ssp585,z20 tilt,25,10,1850.0,2100.0,2014.0
+CESM1,cesm1_lens,rcp85,sst (Nino boxes),40,40,1920.0,2100.0,2100.0
+CESM1,cesm1_lens,rcp85,pr (Nino-3),40,39,1920.0,2100.0,2100.0
+CESM1,cesm1_lens,rcp85,tauu (Nino-4),40,39,1920.0,2100.0,2100.0
+CESM1,cesm1_lens,rcp85,tauu (Nino-3),40,39,1920.0,2100.0,2100.0
+CESM1,cesm1_lens,rcp85,gwi (tas),40,40,1920.0,2100.0,2100.0
+CESM1,cesm1_lens,rcp85,zos gradient,40,40,1920.0,2100.0,2100.0
+CESM1,cesm1_lens,rcp85,z20 tilt,40,40,1920.0,2100.0,2100.0
+CESM2,cesm2_lens,ssp370,sst (Nino boxes),100,100,1850.0,2100.0,2100.0
+CESM2,cesm2_lens,ssp370,pr (Nino-3),100,100,1850.0,2100.0,2100.0
+CESM2,cesm2_lens,ssp370,tauu (Nino-4),100,100,1850.0,2100.0,2100.0
+CESM2,cesm2_lens,ssp370,tauu (Nino-3),100,100,1850.0,2100.0,2100.0
+CESM2,cesm2_lens,ssp370,gwi (tas),100,100,1850.0,2100.0,2100.0
+CESM2,cesm2_lens,ssp370,zos gradient,100,100,1850.0,2100.0,2100.0
+CESM2,cesm2_lens,ssp370,z20 tilt,100,100,1850.0,2100.0,2100.0
+CSIRO-Mk3.6,csiro_mk36_lens,rcp85,sst (Nino boxes),30,30,1850.0,2100.0,2100.0
+CSIRO-Mk3.6,csiro_mk36_lens,rcp85,pr (Nino-3),30,30,1850.0,2100.0,2100.0
+CSIRO-Mk3.6,csiro_mk36_lens,rcp85,tauu (Nino-4),30,30,1850.0,2100.0,2100.0
+CSIRO-Mk3.6,csiro_mk36_lens,rcp85,tauu (Nino-3),30,30,1850.0,2100.0,2100.0
+CSIRO-Mk3.6,csiro_mk36_lens,rcp85,gwi (tas),30,30,1850.0,2100.0,2100.0
+CSIRO-Mk3.6,csiro_mk36_lens,rcp85,zos gradient,30,0,,,
+CSIRO-Mk3.6,csiro_mk36_lens,rcp85,z20 tilt,30,30,1850.0,2100.0,2100.0
+E3SMv1,e3sm_v1_lens,ssp370,sst (Nino boxes),14,14,1850.0,2100.0,2100.0
+E3SMv1,e3sm_v1_lens,ssp370,pr (Nino-3),14,14,1850.0,2100.0,2100.0
+E3SMv1,e3sm_v1_lens,ssp370,tauu (Nino-4),14,14,1850.0,2100.0,2100.0
+E3SMv1,e3sm_v1_lens,ssp370,tauu (Nino-3),14,14,1850.0,2100.0,2100.0
+E3SMv1,e3sm_v1_lens,ssp370,gwi (tas),14,14,1850.0,2100.0,2100.0
+E3SMv1,e3sm_v1_lens,ssp370,zos gradient,14,13,1850.0,2100.0,2100.0
+E3SMv1,e3sm_v1_lens,ssp370,z20 tilt,14,14,1850.0,2100.0,2100.0
+E3SMv2,e3sm_v2_lens,ssp370,sst (Nino boxes),21,21,1850.0,2100.0,2100.0
+E3SMv2,e3sm_v2_lens,ssp370,pr (Nino-3),21,21,1850.0,2100.0,2100.0
+E3SMv2,e3sm_v2_lens,ssp370,tauu (Nino-4),21,21,1850.0,2100.0,2100.0
+E3SMv2,e3sm_v2_lens,ssp370,tauu (Nino-3),21,21,1850.0,2100.0,2100.0
+E3SMv2,e3sm_v2_lens,ssp370,gwi (tas),21,21,1850.0,2100.0,2100.0
+E3SMv2,e3sm_v2_lens,ssp370,zos gradient,21,21,1850.0,2100.0,2100.0
+E3SMv2,e3sm_v2_lens,ssp370,z20 tilt,21,0,,,
+GFDL-CM3,gfdl_cm3_lens,rcp85,sst (Nino boxes),20,20,1920.0,2100.0,2100.0
+GFDL-CM3,gfdl_cm3_lens,rcp85,pr (Nino-3),20,20,1920.0,2100.0,2100.0
+GFDL-CM3,gfdl_cm3_lens,rcp85,tauu (Nino-4),20,20,1920.0,2100.0,2100.0
+GFDL-CM3,gfdl_cm3_lens,rcp85,tauu (Nino-3),20,20,1920.0,2100.0,2100.0
+GFDL-CM3,gfdl_cm3_lens,rcp85,gwi (tas),20,20,1920.0,2100.0,2100.0
+GFDL-CM3,gfdl_cm3_lens,rcp85,zos gradient,20,0,,,
+GFDL-CM3,gfdl_cm3_lens,rcp85,z20 tilt,20,20,1920.0,2100.0,2100.0
+GFDL-ESM2M,gfdl_esm2m_lens,rcp85,sst (Nino boxes),30,30,1861.0,2100.0,2100.0
+GFDL-ESM2M,gfdl_esm2m_lens,rcp85,pr (Nino-3),30,30,1861.0,2100.0,2100.0
+GFDL-ESM2M,gfdl_esm2m_lens,rcp85,tauu (Nino-4),30,0,,,
+GFDL-ESM2M,gfdl_esm2m_lens,rcp85,tauu (Nino-3),30,0,,,
+GFDL-ESM2M,gfdl_esm2m_lens,rcp85,gwi (tas),30,30,1861.0,2100.0,2100.0
+GFDL-ESM2M,gfdl_esm2m_lens,rcp85,zos gradient,30,30,1861.0,2100.0,2100.0
+GFDL-ESM2M,gfdl_esm2m_lens,rcp85,z20 tilt,30,0,,,
+GFDL-SPEAR,gfdl_spear_lens,ssp585,sst (Nino boxes),30,30,1921.0,2100.0,2100.0
+GFDL-SPEAR,gfdl_spear_lens,ssp585,pr (Nino-3),30,30,1921.0,2100.0,2100.0
+GFDL-SPEAR,gfdl_spear_lens,ssp585,tauu (Nino-4),30,0,,,
+GFDL-SPEAR,gfdl_spear_lens,ssp585,tauu (Nino-3),30,0,,,
+GFDL-SPEAR,gfdl_spear_lens,ssp585,gwi (tas),30,30,1921.0,2100.0,2100.0
+GFDL-SPEAR,gfdl_spear_lens,ssp585,zos gradient,30,0,,,
+GFDL-SPEAR,gfdl_spear_lens,ssp585,z20 tilt,30,0,,,
+GISS-E2.1-G,giss-e2,ssp370,sst (Nino boxes),5,5,1850.0,2100.0,2100.0
+GISS-E2.1-G,giss-e2,ssp370,pr (Nino-3),5,5,1850.0,2100.0,2100.0
+GISS-E2.1-G,giss-e2,ssp370,tauu (Nino-4),5,5,1850.0,2014.0,2014.0
+GISS-E2.1-G,giss-e2,ssp370,tauu (Nino-3),5,5,1850.0,2014.0,2014.0
+GISS-E2.1-G,giss-e2,ssp370,gwi (tas),5,5,1850.0,2100.0,2100.0
+GISS-E2.1-G,giss-e2,ssp370,zos gradient,5,5,1850.0,2100.0,2100.0
+GISS-E2.1-G,giss-e2,ssp370,z20 tilt,5,0,,,
+GISS-E2.1-G,giss-e2,ssp585,sst (Nino boxes),4,4,1850.0,2100.0,2100.0
+GISS-E2.1-G,giss-e2,ssp585,pr (Nino-3),4,4,1850.0,2100.0,2100.0
+GISS-E2.1-G,giss-e2,ssp585,tauu (Nino-4),4,4,1850.0,2100.0,2100.0
+GISS-E2.1-G,giss-e2,ssp585,tauu (Nino-3),4,4,1850.0,2100.0,2100.0
+GISS-E2.1-G,giss-e2,ssp585,gwi (tas),4,4,1850.0,2100.0,2100.0
+GISS-E2.1-G,giss-e2,ssp585,zos gradient,4,4,1850.0,2100.0,2100.0
+GISS-E2.1-G,giss-e2,ssp585,z20 tilt,4,0,,,
+IPSL-CM6A,ipsl_cm6a_lens,ssp370,sst (Nino boxes),5,5,1850.0,2100.0,2100.0
+IPSL-CM6A,ipsl_cm6a_lens,ssp370,pr (Nino-3),5,5,1850.0,2100.0,2100.0
+IPSL-CM6A,ipsl_cm6a_lens,ssp370,tauu (Nino-4),5,5,1850.0,2100.0,2100.0
+IPSL-CM6A,ipsl_cm6a_lens,ssp370,tauu (Nino-3),5,5,1850.0,2100.0,2100.0
+IPSL-CM6A,ipsl_cm6a_lens,ssp370,gwi (tas),5,5,1850.0,2100.0,2100.0
+IPSL-CM6A,ipsl_cm6a_lens,ssp370,zos gradient,5,5,1850.0,2100.0,2100.0
+IPSL-CM6A,ipsl_cm6a_lens,ssp370,z20 tilt,5,5,1850.0,2100.0,2100.0
+IPSL-CM6A,ipsl_cm6a_lens,ssp585,sst (Nino boxes),6,6,1850.0,2100.0,2100.0
+IPSL-CM6A,ipsl_cm6a_lens,ssp585,pr (Nino-3),6,6,1850.0,2100.0,2100.0
+IPSL-CM6A,ipsl_cm6a_lens,ssp585,tauu (Nino-4),6,6,1850.0,2100.0,2100.0
+IPSL-CM6A,ipsl_cm6a_lens,ssp585,tauu (Nino-3),6,6,1850.0,2100.0,2100.0
+IPSL-CM6A,ipsl_cm6a_lens,ssp585,gwi (tas),6,6,1850.0,2100.0,2100.0
+IPSL-CM6A,ipsl_cm6a_lens,ssp585,zos gradient,6,6,1850.0,2100.0,2100.0
+IPSL-CM6A,ipsl_cm6a_lens,ssp585,z20 tilt,6,6,1850.0,2015.0,2015.0
+MIROC6,miroc6_lens,ssp585,sst (Nino boxes),50,50,1850.0,2100.0,2100.0
+MIROC6,miroc6_lens,ssp585,pr (Nino-3),50,50,1850.0,2100.0,2100.0
+MIROC6,miroc6_lens,ssp585,tauu (Nino-4),50,50,1850.0,2100.0,2100.0
+MIROC6,miroc6_lens,ssp585,tauu (Nino-3),50,50,1850.0,2100.0,2100.0
+MIROC6,miroc6_lens,ssp585,gwi (tas),50,50,1850.0,2100.0,2100.0
+MIROC6,miroc6_lens,ssp585,zos gradient,50,50,1850.0,2100.0,2100.0
+MIROC6,miroc6_lens,ssp585,z20 tilt,50,46,1850.0,2100.0,2015.0
+MIROC-ES2L,miroc_esm2l_lens,ssp585,sst (Nino boxes),10,10,1850.0,2100.0,2100.0
+MIROC-ES2L,miroc_esm2l_lens,ssp585,pr (Nino-3),10,10,1850.0,2100.0,2100.0
+MIROC-ES2L,miroc_esm2l_lens,ssp585,tauu (Nino-4),10,10,1850.0,2100.0,2100.0
+MIROC-ES2L,miroc_esm2l_lens,ssp585,tauu (Nino-3),10,10,1850.0,2100.0,2100.0
+MIROC-ES2L,miroc_esm2l_lens,ssp585,gwi (tas),10,10,1850.0,2100.0,2100.0
+MIROC-ES2L,miroc_esm2l_lens,ssp585,zos gradient,10,10,1850.0,2100.0,2100.0
+MIROC-ES2L,miroc_esm2l_lens,ssp585,z20 tilt,10,0,,,
+MPI-GE,mpi_lens,rcp85,sst (Nino boxes),100,100,1850.0,2099.0,2099.0
+MPI-GE,mpi_lens,rcp85,pr (Nino-3),100,100,1850.0,2099.0,2099.0
+MPI-GE,mpi_lens,rcp85,tauu (Nino-4),100,100,1850.0,2099.0,2099.0
+MPI-GE,mpi_lens,rcp85,tauu (Nino-3),100,100,1850.0,2099.0,2099.0
+MPI-GE,mpi_lens,rcp85,gwi (tas),100,100,1850.0,2099.0,2099.0
+MPI-GE,mpi_lens,rcp85,zos gradient,100,100,1850.0,2099.0,2099.0
+MPI-GE,mpi_lens,rcp85,z20 tilt,100,100,1850.0,2099.0,2099.0
+MPI-GE-CMIP6,mpi_lens_cmip6,ssp585,sst (Nino boxes),30,30,1850.0,2100.0,2100.0
+MPI-GE-CMIP6,mpi_lens_cmip6,ssp585,pr (Nino-3),30,30,1850.0,2100.0,2100.0
+MPI-GE-CMIP6,mpi_lens_cmip6,ssp585,tauu (Nino-4),30,30,1850.0,2100.0,2100.0
+MPI-GE-CMIP6,mpi_lens_cmip6,ssp585,tauu (Nino-3),30,30,1850.0,2100.0,2100.0
+MPI-GE-CMIP6,mpi_lens_cmip6,ssp585,gwi (tas),30,30,1850.0,2100.0,2100.0
+MPI-GE-CMIP6,mpi_lens_cmip6,ssp585,zos gradient,30,30,1850.0,2100.0,2100.0
+MPI-GE-CMIP6,mpi_lens_cmip6,ssp585,z20 tilt,30,30,1850.0,2100.0,2100.0
+UKESM1,ukesm1-0-ll_lens,ssp370,sst (Nino boxes),8,8,1850.0,2100.0,2100.0
+UKESM1,ukesm1-0-ll_lens,ssp370,pr (Nino-3),8,8,1850.0,2100.0,2100.0
+UKESM1,ukesm1-0-ll_lens,ssp370,tauu (Nino-4),8,8,1850.0,2100.0,2100.0
+UKESM1,ukesm1-0-ll_lens,ssp370,tauu (Nino-3),8,8,1850.0,2100.0,2100.0
+UKESM1,ukesm1-0-ll_lens,ssp370,gwi (tas),8,8,1850.0,2100.0,2100.0
+UKESM1,ukesm1-0-ll_lens,ssp370,zos gradient,8,8,1850.0,2100.0,2100.0
+UKESM1,ukesm1-0-ll_lens,ssp370,z20 tilt,8,1,1850.0,2014.0,2014.0
+UKESM1,ukesm1-0-ll_lens,ssp585,sst (Nino boxes),5,5,1850.0,2100.0,2100.0
+UKESM1,ukesm1-0-ll_lens,ssp585,pr (Nino-3),5,5,1850.0,2100.0,2100.0
+UKESM1,ukesm1-0-ll_lens,ssp585,tauu (Nino-4),5,5,1850.0,2100.0,2100.0
+UKESM1,ukesm1-0-ll_lens,ssp585,tauu (Nino-3),5,5,1850.0,2100.0,2100.0
+UKESM1,ukesm1-0-ll_lens,ssp585,gwi (tas),5,5,1850.0,2100.0,2100.0
+UKESM1,ukesm1-0-ll_lens,ssp585,zos gradient,5,5,1850.0,2100.0,2100.0
+UKESM1,ukesm1-0-ll_lens,ssp585,z20 tilt,5,5,1850.0,2100.0,2014.0
