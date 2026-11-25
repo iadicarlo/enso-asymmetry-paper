@@ -1,5 +1,6 @@
 # Present-day eastern Pacific mean state is linked to projected ENSO asymmetry changes
 
+[![Code DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24530233.svg)](https://doi.org/10.5281/zenodo.24530233)
 [![Data DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24529452.svg)](https://doi.org/10.5281/zenodo.24529452)
 
 Code and reduced data for the paper "Present-day eastern Pacific mean state is linked to projected ENSO asymmetry
@@ -87,4 +88,4 @@ Code: MIT. Data and tables: CC BY 4.0.
 
 ## Citation
 
-If you use this code or data, please cite the paper and the Zenodo records.
+If you use this code or data, please cite the paper and the Zenodo records: code https://doi.org/10.5281/zenodo.24530233, data https://doi.org/10.5281/zenodo.24529452.
