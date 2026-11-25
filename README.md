@@ -1,5 +1,7 @@
 # Present-day eastern Pacific mean state is linked to projected ENSO asymmetry changes
 
+[![Data DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24529452.svg)](https://doi.org/10.5281/zenodo.24529452)
+
 Code and reduced data for the paper "Present-day eastern Pacific mean state is linked to projected ENSO asymmetry
 changes" by I. Abdelkader Di Carlo, Y. Y. Planton, N. Maher, P. Trascasa-Castro, M. Lengaigne and J. Vialard
 (submitted to Geophysical Research Letters).
@@ -22,7 +24,7 @@ each model.
 
 ## Data
 
-The reduced data (about 550 MB) is archived on Zenodo: DATA_DOI. Download it and unpack it at the root of this
+The reduced data (about 550 MB) is archived on Zenodo: https://doi.org/10.5281/zenodo.24529452. Download it and unpack it at the root of this
 repository, so that `data/lorenz/` and `data/obs/` sit next to `src/` and `scripts/`.
 
 - `data/lorenz/<scenario>/<model>_metrics.nc`, `_box_anoms.nc`, `_extra_vars.nc`, `_nonlinear_indices.nc`: monthly
