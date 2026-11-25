@@ -68,7 +68,7 @@ The table scripts run before the figures: `build_obs.py` (observed indices), `bu
 per-ensemble changes, bootstrap correlations), `selection.py` and `screened.py` (subsets of ensembles),
 `rain_response.py`, `constrain.py` (partial correlations and the estimate at the observed state), `smile_use.py`
 (variance partition between internal variability and forced response), `extra_stats.py`, `member_trends.py`,
-`composite_stats.py` and `variable_inventory.py`.
+`composite_stats.py`, `variable_inventory.py` and `family_test.py` (one ensemble per model family).
 
 ## Preprocessing
 
