@@ -195,12 +195,12 @@ ax.axhline(0, color=S.MUTED, lw=0.6, ls=(0, (3, 2)))
 ax.axvline(0, color=S.MUTED, lw=0.6, ls=(0, (3, 2)))
 ax.format(xlim=(0, 0.7), ylim=(-0.20, 0.30))
 FID = pd.read_csv(TABLES / "model_fidelity.csv", index_col=0)
-xp = repel_markers(ax, Rref.loc[models, "med"].values, Aref.loc[models, "med"].values, min_pts=10.0, fixed=[(obs_PEN - obs_PLN, obs_A)])
+xp = repel_markers(ax, Rref.loc[models, "med"].values, Aref.loc[models, "med"].values, min_pts=13.0, fixed=[(obs_PEN - obs_PLN, obs_A)])
 for m, (xd, yd) in zip(models, xp):
     x0, y0 = Rref.loc[m, "med"], Aref.loc[m, "med"]
-    ax.errorbar(x0, y0, xerr=Rref.loc[m, "se"], yerr=Aref.loc[m, "se"], fmt="none", ecolor=S.INK, elinewidth=0.4, alpha=0.35, zorder=3)
-    if abs(xd - x0) + abs(yd - y0) > 1e-6:
+    if abs(xd - x0) + abs(yd - y0) > 1e-6:  # a displaced marker keeps a dot at its true position
         ax.plot([x0, xd], [y0, yd], color=S.INK, lw=0.4, zorder=4)
+        ax.scatter([x0], [y0], s=4, color=S.INK, lw=0, zorder=4)
     (numbered_marker if FID.loc[m, "cold_tongue"] else open_marker)(ax, xd, yd, int(mod.loc[m, "num"]), rain_color(rain.loc[m, "med"]), size=72, fontsize=5.0)
 ax.scatter(obs_PEN - obs_PLN, obs_A, s=120, marker="*", color=S.ACCENT, edgecolor="white", lw=0.5, zorder=7)
 from matplotlib.lines import Line2D  # noqa: E402
